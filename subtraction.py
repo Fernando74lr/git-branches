@@ -5,3 +5,5 @@
 '''
 
 # Code here...
+def subtraction(a, b):
+    return a - b
