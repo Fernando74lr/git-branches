@@ -5,3 +5,5 @@
 '''
 
 # Code here...
+def addition(a, b):
+    return a + b
